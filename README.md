@@ -1,4 +1,4 @@
-<h2>What's good! I'm Kamill aka AM! 👋</h2>
+<h2>What's good! I'm Kamill but my friends call me AM! 👋</h2>
 
 
 ```javascript
