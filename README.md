@@ -13,7 +13,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["mySQL"],
+      databases: ["Firebase", "mySQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
    hobbies: ["music production", "software development"],
