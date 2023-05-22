@@ -15,7 +15,6 @@ const aboutMe = {
       },
       databases: ["Firebase", "mySQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
    hobbies: ["music production", "software development"],
 }
 ```
